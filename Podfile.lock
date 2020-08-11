@@ -1,0 +1,73 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Floaty (4.2.0)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Realm (3.21.0):
+    - Realm/Headers (= 3.21.0)
+  - Realm/Headers (3.21.0)
+  - RealmSwift (3.21.0):
+    - Realm (= 3.21.0)
+  - Result (4.1.0)
+  - RxBiBinding (0.2.1):
+    - RxCocoa (~> 4.5)
+    - RxSwift (~> 4.5)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxGesture (2.2.0):
+    - RxCocoa (~> 4.5)
+    - RxSwift (~> 4.5)
+  - RxSwift (4.5.0)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Floaty
+  - Moya/RxSwift (~> 13.0)
+  - Realm
+  - RealmSwift
+  - RxBiBinding
+  - RxCocoa (~> 4.0)
+  - RxGesture
+  - RxSwift (~> 4.0)
+  - SDWebImage
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Floaty
+    - Moya
+    - Realm
+    - RealmSwift
+    - Result
+    - RxBiBinding
+    - RxCocoa
+    - RxGesture
+    - RxSwift
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Realm: 38e9dcb19104b58407167d99f70d4995f7c16023
+  RealmSwift: 3183cc1ad48378fbcd634311b22c0e6c44021152
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxBiBinding: ea3f613e794d00c1d0ef1837883303906da0d557
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxGesture: c1b7bf17166b0ef9d642a9510f8bac5785f18990
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: ff224c8db883f019113c664f5cf46466bc01008a
+
+COCOAPODS: 1.9.1

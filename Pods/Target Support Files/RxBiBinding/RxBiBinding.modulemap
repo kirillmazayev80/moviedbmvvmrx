@@ -1,0 +1,6 @@
+module RxBiBinding {
+  umbrella header "RxBiBinding-umbrella.h"
+
+  export *
+  module * { export * }
+}

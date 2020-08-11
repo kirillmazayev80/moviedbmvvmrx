@@ -1,0 +1,6 @@
+module Pods_MovieDBMVVMRx {
+  umbrella header "Pods-MovieDBMVVMRx-umbrella.h"
+
+  export *
+  module * { export * }
+}
